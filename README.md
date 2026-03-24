@@ -1,7 +1,7 @@
 <!-- HEADER -->
-<h1 align="center">✨ Hi, I'm Akshat Jain 👋</h1>
+<h1 align="center">✨ Hi, I'm Akshat Jain ✨<h1>
 
-<h3 align="center">💻 Full-Stack Developer | 🚀 MERN Enthusiast | 🧠 Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | MERN Enthusiast |  Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+(2026);Full-Stack+MERN+Developer;DSA+%7C+Problem+Solving;Building+Scalable+%26+Modern+Web+Apps" />
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Skills & Interests
+## ⚡ Skills & Interests
 - 🔹 Full-Stack Web Development  
 - 🔹 Backend Engineering & REST APIs  
 - 🔹 Data Structures & Algorithms
@@ -64,7 +64,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
-## 🚀 Featured Projects
+## ✨ Featured Projects
 - 🛒 **MERN eCommerce Platform** – Full-stack shopping platform with authentication, cart system, and secure checkout  
 - 🤖 **AI-Powered E-Learning Website** – Smart learning platform with AI-based recommendations, quizzes, and progress tracking  
 - 🏫 **College Website** – Responsive college portal with notices, departments, faculty info, and student dashboard  
