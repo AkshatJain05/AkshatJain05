@@ -1,14 +1,25 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Akshat Jain</h1>
+<h1 align="center">✨ Hi, I'm Akshat Jain 👋</h1>
+
 <h3 align="center">💻 Full-Stack Developer | 🚀 MERN Enthusiast | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+(2026);MERN+Stack+Developer;DSA+Enthusiast;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+(2026);Full-Stack+MERN+Developer;DSA+%7C+Problem+Solving;Building+Scalable+%26+Modern+Web+Apps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Backend-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/hero-banner.gif" width="80%" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 - 🎓 B.Tech Computer Science Student (2026)  
 - 💻 Passionate about **Full-Stack Development & Problem Solving**  
 - 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
